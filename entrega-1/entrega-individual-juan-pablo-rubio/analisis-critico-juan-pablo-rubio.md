@@ -3,7 +3,7 @@
 ### 1. ¿Qué esperas contar y/o revelar del tema? 
 Me gustaría desmontar el sentido común que asume que "las entradas caras vacían los estadios" o que "la hinchada siempre acompaña sin importar el costo". A través del análisis de aproximadamente 180 partidos de local de Colo-Colo, Universidad de Chile y Universidad Católica entre las dos temporadas, espero contar la historia detrás de las decisiones del hincha chileno al momento de pagar una entrada y asistir al estadio.
 
-La idea es ver qué influye más al momento de llenar un estadio. Si realmente importa el precio de la entrada comparado con el sueldo mínimo, o si al final pesa más jugar un clásico. También queremos comparar qué tanto afecta el momento deportivo del equipo frente a factores como el día o la hora en que se juega el partido. 
+La idea es ver qué influye más al momento de llenar un estadio. Si realmente importa el precio de la entrada comparado con el sueldo mínimo, o si al final pesa más jugar un clásico. 
 
 ### 2. Dos ideas para contar la historia
 
