@@ -18,9 +18,9 @@ Las variables iniciales son: ID del partido, temporada, fecha, local, visita, es
 
 ### Pertinencia
 
-Esta base es fundamental para la investigación porque permitirá medir la convocatoria de los partidos de los tres clubes seleccionados. En lugar de utilizar únicamente la cantidad absoluta de asistentes, se calculará el porcentaje de ocupación del aforo autorizado, lo que permitirá comparar partidos disputados en estadios con distintas capacidades y bajo diferentes condiciones de autorización.
+Esta base es fundamental para la investigación porque permitirá **medir la convocatoria de los partidos de los tres clubes seleccionados**. En lugar de utilizar únicamente la cantidad absoluta de asistentes, se calculará el porcentaje de ocupación del aforo autorizado, lo que permitirá comparar partidos disputados en estadios con distintas capacidades y bajo diferentes condiciones de autorización.
 
-Estos datos permitirán ver qué partidos se llenaron más y cuáles quedaron vacíos, para luego cruzar esa ocupación con el precio de las entradas y otros datos del partido. Así, la asistencia servirá para ver si la plata, el rival o el momento del equipo realmente influyen en las ganas de ir a la cancha.
+Estos datos permitirán ver qué partidos se llenaron más y cuáles quedaron vacíos, para luego cruzar esa ocupación con el precio de las entradas y otros datos del partido. Así, **la asistencia servirá para ver si el dinero, el rival o el momento del equipo realmente influyen en las ganas de ir a la cancha**.
 
 ### Metodología
 
