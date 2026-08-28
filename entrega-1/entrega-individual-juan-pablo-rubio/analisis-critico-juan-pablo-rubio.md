@@ -18,4 +18,4 @@ De acuerdo con la clasificación, el arquetipo de Explicación responde a la pre
 Llenar un estadio no depende de una sola cosa, sino de varias a la vez: dinámicas económicas (cuánto cuesta la entrada frente al sueldo), lo deportivo (si el equipo viene ganando o pelea el campeonato), el contexto (el horario de la tele o las restricciones de aforo) y la pasión (el rival de turno y el aguante del hincha).
 
 **Elementos de la historia relacionados con el arquetipo:**
-Principalmente, por la descomposición del sistema en capas y hacer este fenómeno más simple de comprender. La investigación desglosa el problema en dimensiones medibles (Convocatoria, Capacidad, Accesibilidad Económica, Atractivo, Rendimiento y Restricciones) para evaluar la correlación entre cada una de ellas y la ocupación efectiva del estadio.
+La descomposición del sistema en capas hace que este fenómeno sea más simple de comprender y la investigación desglosa el problema en dimensiones medibles (Convocatoria, Capacidad, Accesibilidad Económica, Atractivo, Rendimiento y Restricciones) para evaluar la correlación entre cada una de ellas y la ocupación efectiva del estadio.
