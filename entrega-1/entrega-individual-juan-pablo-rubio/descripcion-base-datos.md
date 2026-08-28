@@ -24,3 +24,10 @@ Estos datos permitirán ver qué partidos se llenaron más y cuáles quedaron va
 
 ### Metodología
 
+La base se armará luego de juntar datos de fuentes oficiales y públicas de manera manual. Primero sacaremos la asistencia y los aforos desde la ANFP y Estadio Seguro, y luego cruzaremos esa información con publicaciones de los clubes y notas de prensa para confirmar o rellenar lo que falte.
+
+Además, se realizará una solicitud de información mediante el Portal de Transparencia a la Subsecretaría del Interior, donde solicitaremos los registros disponibles de público asistente y el aforo autorizado para los partidos correspondientes al período estudiado.
+
+Cada dato incorporado a la base tendrá asociada su fuente, de manera que pueda verificarse su procedencia y veracidad. En caso de encontrar diferencias entre las fuentes, serán contrastadas y priorizaremos los regitros oficiales.
+
+Si falta información de algún partido, usaremos los informes y rankings de Estadio Seguro con datos generales por club. En ese caso analizaremos los promedios de asistencia y aforo disponibles y alcararemos que se trabaja con cifras globales y no partido a partido.
