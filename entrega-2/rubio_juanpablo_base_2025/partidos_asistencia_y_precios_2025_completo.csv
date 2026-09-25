@@ -1,0 +1,45 @@
+Equipo,Fecha N°,Fecha,Hora,Rival,Estadio,Goles Local,Goles Visita,Resultado,Aforo Autorizado,Público Controlado,% Ocupación,Precio Más Bajo (CLP),Puntos
+Colo-Colo,Fecha 2,2025-02-24 00:00:00,20.00,O'Higgins,Estadio Monumental,0,1,Derrota,35000,,-,,
+Colo-Colo,Fecha 4,2025-02-09 00:00:00,20.30,Everton,Estadio Monumental,2,0,Victoria,35000,,-,,
+Colo-Colo,Fecha 6,2025-03-27 00:00:00,18.15,Palestino,Estadio Monumental,1,1,Empate,35000,,-,,
+Colo-Colo,Fecha 9,2025-04-26 00:00:00,20.00,Coquimbo Unido,Estadio Monumental,2,0,Victoria,42000,,-,,
+Colo-Colo,Fecha 11,2025-05-19 00:00:00,18.00,Ñublense,Estadio Monumental,2,2,Empate,35000,,-,,
+Colo-Colo,Fecha 12,2025-05-24 00:00:00,17.30,Unión Española,Estadio Monumental,4,1,Victoria,35000,,-,,
+Colo-Colo,Fecha 14,2025-06-17 00:00:00,18.00,Cobresal,Estadio Monumental,4,0,Victoria,35000,,-,,
+Colo-Colo,Fecha 16,2025-07-19 00:00:00,15.00,Deportes La Serena,Estadio Monumental,2,1,Victoria,38000,,-,,
+Colo-Colo,Fecha 18,2025-08-03 00:00:00,15.00,Huachipato,Estadio Monumental,2,2,Empate,42000,,-,,
+Colo-Colo,Fecha 20,2025-08-16 00:00:00,15.00,Universidad Católica,Estadio Monumental,1,4,Derrota,35000,,-,,
+Colo-Colo,Fecha 22,2025-08-31 00:00:00,15.00,Universidad de Chile,Estadio Monumental,1,0,Victoria,35000,,-,,
+Colo-Colo,Fecha 23,2025-09-26 00:00:00,19.00,Deportes Iquique,Estadio Monumental,4,0,Victoria,35000,,-,,
+Colo-Colo,Fecha 25,2025-10-27 00:00:00,18.00,Deportes Limache,Estadio Monumental,2,2,Empate,35000,,-,,
+Colo-Colo,Fecha 30,2025-12-07 00:00:00,18.00,Audax Italiano,Estadio Monumental,1,2,Derrota,35000,,-,,
+Universidad de Chile,Fecha 1,2025-02-15 00:00:00,20.30,Ñublense,Estadio Nacional,5,0,Victoria,40000,-,-,12000,3
+Universidad de Chile,Fecha 2,2025-02-23 00:00:00,20.30,Unión La Calera,Estadio Nacional,1,0,Victoria,40000,-,-,12000,3
+Universidad de Chile,Fecha 7,2025-07-12 00:00:00,15.00,Colo-Colo,Estadio Nacional,2,1,Victoria,40000,-,-,12000,3
+Universidad de Chile,Fecha 8,2025-04-17 00:00:00,18.00,Deportes La Serena,Estadio Nacional,3,1,Victoria,40000,-,-,12000,3
+Universidad de Chile,Fecha 10,2025-05-02 00:00:00,17.30,Universidad Católica,Estadio Nacional,1,0,Victoria,40000,-,-,12000,3
+Universidad de Chile,Fecha 11,2025-05-18 00:00:00,18.30,Huachipato,Estadio Nacional,5,1,Victoria,40000,-,-,12000,3
+Universidad de Chile,Fecha 13,2025-05-31 00:00:00,15.00,O'Higgins,Estadio Nacional,6,0,Victoria,42000,-,-,12000,3
+Universidad de Chile,Fecha 15,2025-06-21 00:00:00,15.00,Deportes Iquique,Estadio Nacional,3,1,Victoria,40000,-,-,12000,3
+Universidad de Chile,Fecha 18,2025-08-04 00:00:00,18.00,Cobresal,Estadio Nacional,0,1,Derrota,40000,-,-,12000,0
+Universidad de Chile,Fecha 19,2025-08-09 00:00:00,15.00,Unión Española,Estadio Nacional,4,1,Victoria,45000,-,-,16000,3
+Universidad de Chile,Fecha 20,2025-08-17 00:00:00,12.30,Audax Italiano,Estadio Nacional,1,3,Derrota,40000,-,-,12000,0
+Universidad de Chile,Fecha 21,2025-11-05 00:00:00,17.30,Everton,Estadio Nacional,2,0,Victoria,42000,-,-,12000,3
+Universidad de Chile,Fecha 24,2025-10-13 00:00:00,16.00,Palestino,Estadio Nacional,2,1,Victoria,40000,-,-,12000,3
+Universidad de Chile,Fecha 27,2025-11-09 00:00:00,17.30,Deportes Limache,Estadio Nacional,4,3,Victoria,40000,-,-,13000,3
+Universidad de Chile,Fecha 29,2025-12-02 00:00:00,18.00,Coquimbo Unido,Estadio Nacional,1,1,Empate,45000,-,-,18000,1
+Universidad Católica,Fecha 1,2025-02-17 00:00:00,18.00,Audax Italiano,Estadio Santa Laura,3,1,Victoria,12000,-,-,8000,3
+Universidad Católica,Fecha 3,2025-03-01 00:00:00,18.00,Deportes Iquique,Estadio Santa Laura,1,0,Victoria,12000,-,-,8000,3
+Universidad Católica,Fecha 5,2025-07-06 00:00:00,P/D,Colo-Colo,Estadio Santa Laura,2,0,Victoria,12000,-,-,8000,3
+Universidad Católica,Fecha 8,2025-04-19 00:00:00,17.30,Deportes Limache,Estadio San Carlos de Apoquindo,2,1,Victoria,20000,-,-,10000,3
+Universidad Católica,Fecha 9,2025-04-25 00:00:00,20.30,Everton,Estadio San Carlos de Apoquindo,6,0,Victoria,20000,-,-,10000,3
+Universidad Católica,Fecha 12,2025-05-25 00:00:00,17.30,Deportes La Serena,Estadio San Carlos de Apoquindo,1,3,Derrota,20000,-,-,10000,0
+Universidad Católica,Fecha 14,2025-06-14 00:00:00,15.00,Huachipato,Estadio San Carlos de Apoquindo,1,0,Victoria,20000,-,-,10000,3
+Universidad Católica,Fecha 17,2025-07-27 00:00:00,15.00,Coquimbo Unido,Estadio San Carlos de Apoquindo,0,3,Derrota,20000,-,-,10000,0
+Universidad Católica,Fecha 19,2025-10-09 00:00:00,20.30,Ñublense,Estadio San Carlos de Apoquindo,1,0,Victoria,20000,-,-,10000,3
+Universidad Católica,Fecha 21,2025-08-23 00:00:00,20.00,Unión Española,Estadio San Carlos de Apoquindo,2,0,Victoria,20000,-,-,10000,3
+Universidad Católica,Fecha 22,2025-08-30 00:00:00,17.30,Cobresal,Estadio San Carlos de Apoquindo,2,1,Victoria,20000,-,-,10000,3
+Universidad Católica,Fecha 25,2025-10-26 00:00:00,12.30,Universidad de Chile,Estadio San Carlos de Apoquindo,1,0,Victoria,20000,-,-,10000,3
+Universidad Católica,Fecha 26,2025-11-02 00:00:00,17.30,O'Higgins,Estadio San Carlos de Apoquindo,0,2,Derrota,20000,-,-,15000,0
+Universidad Católica,Fecha 28,2025-11-22 00:00:00,20.30,Palestino,Estadio San Carlos de Apoquindo,2,1,Victoria,20000,-,-,10000,3
+Universidad Católica,Fecha 30,2025-12-06 00:00:00,18.00,Unión La Calera,Estadio San Carlos de Apoquindo,2,1,Victoria,20000,-,-,15000,3
