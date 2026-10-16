@@ -2,7 +2,7 @@
 
 Cuando se habla de estadios con espacios vacíos en el fútbol chileno, la primera sospecha suele ser el precio de las entradas. Pero antes de llegar a esa discusión conviene mirar algo más básico: cuándo y contra quién se programan los partidos.
 
-![Visualización de la programación de los partidos de local de Colo-Colo, Universidad de Chile y Universidad Católica en 2025](visualizacion_estadios.jpg)
+![Visualización de la programación de los partidos de local de Colo-Colo, Universidad de Chile y Universidad Católica en 2025](visualizacion_estadios.png)
 
 El gráfico reúne los 44 partidos que Colo-Colo, la Universidad de Chile y la Universidad Católica jugaron de local en 2025. Cada punto o barra representa un encuentro: su posición muestra la fecha y la hora de inicio, su capacidad refleja el aforo autorizado, y su distribución agrupa a los rivales y equipos locales del torneo.
 
