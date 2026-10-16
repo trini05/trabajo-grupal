@@ -1,0 +1,30 @@
+import pandas as pd
+import altair as alt
+
+# 1. Cargar los datos desde el archivo CSV (saltando las 3 primeras líneas de encabezado descriptivo)
+df = pd.read_csv('partidos_asistencia_y_precios_2025.csv', encoding='latin1', skiprows=3, sep=';')
+
+# 2. Limpiar la columna de precios para transformarla en formato numérico
+df['Precio_Num'] = df['Precio Más Bajo (CLP)'].str.replace('$', '', regex=False).str.replace('.', '', regex=False).astype(int)
+
+# 3. Crear la visualización interactiva con Altair
+chart = alt.Chart(df).mark_bar(size=20).encode(
+    x=alt.X('Fecha N°:N', sort=None, title='Fecha del Partido'),
+    y=alt.Y('Precio_Num:Q', title='Precio Más Bajo (CLP)'),
+    color=alt.Color('Estadio:N', title='Estadio'),
+    tooltip=[
+        alt.Tooltip('Fecha N°', title='Jornada'),
+        alt.Tooltip('Fecha', title='Fecha'),
+        alt.Tooltip('Rival', title='Rival'),
+        alt.Tooltip('Estadio', title='Estadio'),
+        alt.Tooltip('Precio Más Bajo (CLP)', title='Precio Mínimo')
+    ]
+).properties(
+    title='Universidad Católica - Precio de la Entrada Más Baja por Partido (2025)',
+    width=700,
+    height=400
+).interactive()
+
+# 4. Guardar el resultado en formato HTML (requerido para la webstory)
+chart.save('visualizacion_estadios.html')
+print("¡Gráfico de Altair generado y guardado como 'visualizacion_estadios.html' con éxito!")

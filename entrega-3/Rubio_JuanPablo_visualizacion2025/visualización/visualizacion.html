@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-922ef6b1e9c386ae9acde855347b35a4"}, "mark": {"type": "circle", "size": 80}, "encoding": {"color": {"field": "Equipo", "title": "Equipo Local", "type": "nominal"}, "size": {"field": "Aforo Autorizado", "title": "Aforo Autorizado", "type": "quantitative"}, "tooltip": [{"field": "Fecha N\u00b0", "type": "nominal"}, {"field": "Fecha", "type": "temporal"}, {"field": "Hora", "type": "nominal"}, {"field": "Rival", "type": "nominal"}, {"field": "Estadio", "type": "nominal"}, {"field": "Equipo", "type": "nominal"}, {"field": "Aforo Autorizado", "type": "quantitative"}], "x": {"field": "Fecha", "title": "Fecha del Partido", "type": "temporal"}, "y": {"field": "Hora", "title": "Hora de Inicio", "type": "ordinal"}}, "height": 450, "params": [{"name": "param_5", "select": {"type": "interval", "encodings": ["x", "y"]}, "bind": "scales"}], "title": "Partidos, Horarios y Aforos de los Grandes de Santiago (2025)", "width": 750, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-922ef6b1e9c386ae9acde855347b35a4": [{"Fecha N\u00b0": "Fecha 2", "Fecha": "2025-02-24T00:00:00", "Hora": "20.00", "Rival": "O'Higgins", "Estadio": "Estadio Monumental", "Goles Local": 0, "Goles Visita": 1, "Resultado": "Derrota", "Aforo Autorizado": 35000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}, {"Fecha N\u00b0": "Fecha 4", "Fecha": "2025-02-09T00:00:00", "Hora": "20.30", "Rival": "Everton", "Estadio": "Estadio Monumental", "Goles Local": 2, "Goles Visita": 0, "Resultado": "Victoria", "Aforo Autorizado": 35000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}, {"Fecha N\u00b0": "Fecha 6", "Fecha": "2025-03-27T00:00:00", "Hora": "18.15", "Rival": "Palestino", "Estadio": "Estadio Monumental", "Goles Local": 1, "Goles Visita": 1, "Resultado": "Empate", "Aforo Autorizado": 35000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}, {"Fecha N\u00b0": "Fecha 9", "Fecha": "2025-04-26T00:00:00", "Hora": "20.00", "Rival": "Coquimbo Unido", "Estadio": "Estadio Monumental", "Goles Local": 2, "Goles Visita": 0, "Resultado": "Victoria", "Aforo Autorizado": 42000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}, {"Fecha N\u00b0": "Fecha 11", "Fecha": "2025-05-19T00:00:00", "Hora": "18.00", "Rival": "\u00d1ublense", "Estadio": "Estadio Monumental", "Goles Local": 2, "Goles Visita": 2, "Resultado": "Empate", "Aforo Autorizado": 35000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}, {"Fecha N\u00b0": "Fecha 12", "Fecha": "2025-05-24T00:00:00", "Hora": "17.30", "Rival": "Uni\u00f3n Espa\u00f1ola", "Estadio": "Estadio Monumental", "Goles Local": 4, "Goles Visita": 1, "Resultado": "Victoria", "Aforo Autorizado": 35000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}, {"Fecha N\u00b0": "Fecha 14", "Fecha": "2025-06-17T00:00:00", "Hora": "18.00", "Rival": "Cobresal", "Estadio": "Estadio Monumental", "Goles Local": 4, "Goles Visita": 0, "Resultado": "Victoria", "Aforo Autorizado": 35000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}, {"Fecha N\u00b0": "Fecha 16", "Fecha": "2025-07-19T00:00:00", "Hora": "15.00", "Rival": "Deportes La Serena", "Estadio": "Estadio Monumental", "Goles Local": 2, "Goles Visita": 1, "Resultado": "Victoria", "Aforo Autorizado": 38000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}, {"Fecha N\u00b0": "Fecha 18", "Fecha": "2025-08-03T00:00:00", "Hora": "15.00", "Rival": "Huachipato", "Estadio": "Estadio Monumental", "Goles Local": 2, "Goles Visita": 2, "Resultado": "Empate", "Aforo Autorizado": 42000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}, {"Fecha N\u00b0": "Fecha 20", "Fecha": "2025-08-16T00:00:00", "Hora": "15.00", "Rival": "Universidad Cat\u00f3lica", "Estadio": "Estadio Monumental", "Goles Local": 1, "Goles Visita": 4, "Resultado": "Derrota", "Aforo Autorizado": 35000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}, {"Fecha N\u00b0": "Fecha 22", "Fecha": "2025-08-31T00:00:00", "Hora": "15.00", "Rival": "Universidad de Chile", "Estadio": "Estadio Monumental", "Goles Local": 1, "Goles Visita": 0, "Resultado": "Victoria", "Aforo Autorizado": 35000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}, {"Fecha N\u00b0": "Fecha 23", "Fecha": "2025-09-26T00:00:00", "Hora": "19.00", "Rival": "Deportes Iquique", "Estadio": "Estadio Monumental", "Goles Local": 4, "Goles Visita": 0, "Resultado": "Victoria", "Aforo Autorizado": 35000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}, {"Fecha N\u00b0": "Fecha 25", "Fecha": "2025-10-27T00:00:00", "Hora": "18.00", "Rival": "Deportes Limache", "Estadio": "Estadio Monumental", "Goles Local": 2, "Goles Visita": 2, "Resultado": "Empate", "Aforo Autorizado": 35000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}, {"Fecha N\u00b0": "Fecha 30", "Fecha": "2025-12-07T00:00:00", "Hora": "18.00", "Rival": "Audax Italiano", "Estadio": "Estadio Monumental", "Goles Local": 1, "Goles Visita": 2, "Resultado": "Derrota", "Aforo Autorizado": 35000, "P\u00fablico Controlado": NaN, "% Ocupaci\u00f3n": "-", "Precio M\u00e1s Bajo (CLP)": NaN, "Colo-Colo": "Colo-Colo", "Equipo": "Desconocido"}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
