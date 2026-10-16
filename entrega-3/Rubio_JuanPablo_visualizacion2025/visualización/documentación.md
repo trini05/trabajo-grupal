@@ -52,3 +52,14 @@ La visualización de datos final permite responder interrogantes clave planteada
 ### Observaciones sobre los datos
 * Los datos de aforo reflejan las autorizaciones previas de la autoridad competente y los recintos, existiendo variaciones según las condiciones de seguridad de cada jornada.
 * El registro de asistencia real (público controlado) se encuentra sujeto a solicitudes pendientes mediante el portal de transparencia, por lo que esta base se centra en la dimensión estructural de la programación.
+
+---
+
+## 5. Fuentes de Información
+
+1. **Calendario, Horarios y Resultados:** Los datos sobre el fixture, las fechas disputadas, horarios, estadios y marcadores finales se extrajeron de la cobertura especial de resultados del Campeonato 2024.
+   - *Fuente:* Emol - Calendario y Resultados Campeonato 2024.
+2. **Asistencia, Aforo Autorizado y Convocatoria:** La información sobre el público controlado, los aforos autorizados por la autoridad y el análisis del % de ocupación de los estadios se obtuvo a partir de los balances oficiales e informes del programa Estadio Seguro y la ANFP, difundidos y analizados por medios de comunicación deportivos:
+   - *La Tercera:* Reporte del balance histórico de público y asistencia del torneo 2024.
+   - *Cooperativa:* Informe de convocatoria y ranking de asistencia por equipo.
+   - *AS Chile:* Ranking detallado de público vs. aforo permitido y comparativa entre los clubes principales.
