@@ -4,7 +4,7 @@ Cada vez que un estadio de fútbol luce desolado y con enormes sectores vacíos,
 
 ![Gráfico de partidos, horarios y aforos](visualization.png)
 
-Para responder a esto, el gráfico reúne los encuentros disputados como local por Colo-Colo, la Universidad de Chile y la Universidad Católica. En esta visualización, cada círculo representa un partido: su ubicación en el plano indica el día y la hora de inicio, su diámetro refleja el aforo máximo permitido por la autoridad, y el color separa los duelos corrientes de los clásicos institucionales.
+Para responder a esto, el gráfico reúne los encuentros disputados como local por Colo-Colo, la Universidad de Chile y la Universidad Católica en el campeonato de 2025. En esta visualización, cada círculo representa un partido: su ubicación en el plano indica el día y la hora de inicio, su diámetro refleja el aforo máximo permitido por la autoridad, y el color separa los duelos corrientes de los clásicos institucionales.
 
 ## Los privilegios del clásico
 Al revisar la distribución de los partidos estelares, la tendencia salta a la vista. Los choques entre los tres grandes se disputan exclusivamente en días sábado o domingo, apostando por franjas vespertinas cómodas. Ninguno de estos encuentros de alta convocatoria se programa de noche ni cae entre lunes y viernes, resguardando así la asistencia y la logística operativa.

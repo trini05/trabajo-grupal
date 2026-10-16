@@ -1,7 +1,7 @@
-# Programación y rivales: ¿cuándo y contra quién juegan los grandes de Santiago? (Temporada 2024)
+# Programación y rivales: ¿cuándo y contra quién juegan los grandes de Santiago? (Temporada 2025)
 
 ## 1. Qué se hizo y por qué
-Esta visualización es complementaria a las que mostrarán la asistencia. Los datos de asistencia oficial y de precios de 2024 aún están incompletos (los solicitamos por el portal de transparencia y no llegaron a tiempo, pero estamos recopilándolos por vías alternativas confiables), así que esta pieza se concentra en las dos primeras variables de la hipótesis grupal que sí están completas: la programación (día y horario) y el rival (clásico o partido regular).
+Esta visualización es complementaria a las que mostrarán la asistencia. Los datos de asistencia oficial y de precios de 2025 aún están incompletos (los solicitamos por el portal de transparencia y no llegaron a tiempo, pero estamos recopilándolos por vías alternativas confiables), así que esta pieza se concentra en las dos primeras variables de la hipótesis grupal que sí están completas: la programación (día y horario) y el rival (clásico o partido regular).
 
 La visualización responde, en parte, a estas preguntas de investigación del proyecto:
 - ¿Cómo cambia la ocupación según el día y horario del partido? (describe la programación, que es el escenario donde después se medirá la ocupación).
@@ -15,7 +15,7 @@ Cuando se complete la columna de asistencia, el mismo gráfico podrá mostrar la
 ## 2. Base de datos utilizada
 - **Archivo original:** un CSV propio cargado en la entrega (este incluye los partidos y columnas base del campeonato).
 - **Archivo procesado:** el CSV procesado a través del script y el notebook de Python (`datos_partidos_limpios.csv`).
-- **Por qué se eligió:** es la base limpia que preparamos con los partidos de local de los tres equipos en 2024. Tiene completas las columnas de fecha, hora, rival, estadio, resultado y aforo autorizado. Las columnas de asistencia (Público Controlado, % Ocupación) y de precio (Precio Más Bajo - CLP) están vacías por ahora y se completarán cuando lleguen los datos definitivos.
+- **Por qué se eligió:** es la base limpia que preparamos con los partidos de local de los tres equipos en 2025. Tiene completas las columnas de fecha, hora, rival, estadio, resultado y aforo autorizado. Las columnas de asistencia (Público Controlado, % Ocupación) y de precio (Precio Más Bajo - CLP) están vacías por ahora y se completarán cuando lleguen los datos definitivos.
 
 ### Fuentes originales
 La base de datos fue construida mediante un proceso de recopilación, cruce y verificación desde fuentes primarias y secundarias:
