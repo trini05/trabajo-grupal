@@ -1,4 +1,4 @@
-# Radiografía a la cancha: ¿cómo se programan los partidos en el fútbol chileno?
+# Los horarios del fútbol chileno: una cancha con distintas reglas
 
 Cada vez que un estadio de fútbol luce desolado y con enormes sectores vacíos, la culpa suele recaer de inmediato sobre el mismo factor: los precios de las entradas. Sin embargo, antes de apuntar al bolsillo de los hinchas, vale la pena detenerse en la letra chica de la organización. ¿Cómo influyen realmente los horarios y los días elegidos en la presencia de público?
 
