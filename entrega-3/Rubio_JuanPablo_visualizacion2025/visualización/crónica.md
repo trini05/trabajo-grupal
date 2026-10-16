@@ -1,26 +1,26 @@
-# ¿Cuándo y contra quién juegan los grandes de Santiago?
+# Radiografía a la cancha: ¿cómo se programan los partidos en el fútbol chileno?
 
-Cuando se habla de estadios con espacios vacíos en el fútbol chileno, la primera sospecha suele ser el precio de las entradas. Pero antes de llegar a esa discusión conviene mirar algo más básico: cuándo y contra quién se programan los partidos.
+Cada vez que un estadio de fútbol luce desolado y con enormes sectores vacíos, la culpa suele recaer de inmediato sobre el mismo factor: los precios de las entradas. Sin embargo, antes de apuntar al bolsillo de los hinchas, vale la pena detenerse en la letra chica de la organización. ¿Cómo influyen realmente los horarios y los días elegidos en la presencia de público?
 
 ![Gráfico de partidos, horarios y aforos](visualization.png)
 
-El gráfico reúne los partidos que Colo-Colo, la Universidad de Chile y la Universidad Católica jugaron de local. Cada punto es un partido: su posición muestra la fecha y la hora de inicio, su tamaño el aforo autorizado, y su color distingue los clásicos (los duelos entre estos tres equipos) de los partidos regulares.
+Para responder a esto, el gráfico reúne los encuentros disputados como local por Colo-Colo, la Universidad de Chile y la Universidad Católica. En esta visualización, cada círculo representa un partido: su ubicación en el plano indica el día y la hora de inicio, su diámetro refleja el aforo máximo permitido por la autoridad, y el color separa los duelos corrientes de los clásicos institucionales.
 
-## Los clásicos tienen su propia ventana
-Los clásicos del año se jugaron preferentemente en fines de semana y en franjas vespertinas. Es la ventana más habitual del campeonato: la gran mayoría de los encuentros se concentró en sábado o domingo, evitando los horarios nocturnos más complejos para la seguridad y el transporte.
+## Los privilegios del clásico
+Al revisar la distribución de los partidos estelares, la tendencia salta a la vista. Los choques entre los tres grandes se disputan exclusivamente en días sábado o domingo, apostando por franjas vespertinas cómodas. Ninguno de estos encuentros de alta convocatoria se programa de noche ni cae entre lunes y viernes, resguardando así la asistencia y la logística operativa.
 
-## La noche y la semana, para los demás
-En el otro extremo, los partidos programados en horarios nocturnos avanzados o en días de semana (de lunes a viernes) recaen principalmente en los duelos regulares. Ningún clásico se disputa en estas jornadas laborales o de noche tardía, las cuales quedan asignadas a los distintos rivales del torneo nacional.
+## Horarios ingratos para el resto
+En la otra vereda se ubica el grueso del torneo. Los partidos programados en horarios nocturnos complejos o en pleno ciclo laboral semanal recaen de manera sistemática sobre los demás rivales de la categoría. Ningún clásico carga con la exigencia de un martes por la noche; esos bloques horarios quedan reservados para el resto de la cartelera.
 
-## No todos cargan con lo mismo
-La carga logística no se reparte por igual entre los tres clubes capitalinos. Mientras algunos equipos concentran casi la totalidad de sus localías en los fines de semana tradicionales, otros deben lidiar con una mayor frecuencia de partidos nocturnos o en días hábiles según la programación y la disponibilidad de sus recintos deportivos.
+## Desigualdades en la ruta de los clubes
+La programación tampoco castiga de igual forma a los tres protagonistas. Mientras algunas instituciones logran concentrar casi toda su localía en los fines de semana tradicionales, otras deben lidiar con una rotación más pesada que incluye frecuentes duelos nocturnos o en días hábiles según la disponibilidad de sus recintos.
 
-## El aforo también cuenta algo
-El tamaño de los puntos en la visualización depende directamente del estadio y de las condiciones de cada jornada: los promedios de capacidad varían de manera significativa entre el Estadio Nacional, el Estadio Monumental y el recinto de San Carlos de Apoquindo o Santa Laura. 
+## El peso y los límites del aforo
+Como es lógico, el tamaño de los círculos expone las diferencias estructurales entre estadios como el Nacional, el Monumental o San Carlos de Apoquindo. 
 
-Dentro de cada equipo, los clásicos registraron en su mayoría aforos autorizados elevados en comparación con los duelos regulares, aunque con excepciones puntuales marcadas por las restricciones de seguridad y las reducciones de aforo dispuestas por la autoridad para partidos específicos.
+Si bien los clásicos lideran en cuanto a la capacidad autorizada, la norma no siempre se cumple a rajatabla. Las restricciones de seguridad y los operativos policiales provocan a menudo que partidos de enorme convocatoria terminen con aforos limitados que sorprenden por estar incluso por debajo de la media habitual.
 
-## Lo que este gráfico todavía no dice
-Esta visualización cuenta cómo se programa el fútbol, no cuánta gente va a verlo. Falta la pieza central: la asistencia real. Los datos se solicitaron mediante el portal de transparencia y aún no llegan, por lo que la ocupación de cada partido no se puede mostrar todavía.
+## La pieza que falta en el tablero
+Esta visualización expone con claridad el mapa de cómo se diseña la fecha a fecha, pero todavía no revela cuántas personas cruzaron los torniquetes. El eslabón que falta es la asistencia real, un dato solicitado mediante transparencia que todavía se encuentra en camino.
 
-Cuando estén, el mismo gráfico servirá para preguntar lo que importa: si los partidos con rival atractivo y horario de fin de semana por la tarde se llenan más que los de noche o de semana, y si esa diferencia pesa tanto como el precio de la entrada. Esa es la hipótesis del proyecto, y por ahora lo que muestran los datos es el escenario donde se juega: los clásicos tienen siempre la mejor ventana, y el resto del calendario carga con la noche y los días laborales.
+Una vez que esos registros estén disponibles, este mismo gráfico permitirá comprobar la gran interrogante del proyecto: si los partidos atractivos en fin de semana realmente superan en público a los de noche o de semana, y si esa brecha de asistencia pesa tanto como el valor del ticket. Por ahora, los datos dibujan con nitidez el escenario de fondo: la comodidad del calendario se la llevan los clásicos, mientras el resto del año carga con el peso de la noche y los días hábiles.
