@@ -1,4 +1,4 @@
-# Entrega 03 · Ocupación de estadios en el fútbol chileno (2024-2025)
+# Entrega 03 - Ocupación de estadios en el fútbol chileno (2024-2025)
 
 ## Hipótesis actual
 La ocupación de los estadios en los partidos de local de Colo-Colo, Universidad de Chile y Universidad Católica no está determinada por el precio de las entradas, sino por factores contextuales y de programación: el atractivo del rival (clásicos o partidos de alta convocatoria) y el día y horario del encuentro.
