@@ -1,29 +1,26 @@
-# ¿Cuándo y contra quién juegan los grandes de Santiago?
+# Los horarios del fútbol chileno: una cancha con distintas reglas
 
-Cuando se habla de estadios con espacios vacíos en el fútbol chileno, la primera sospecha suele ser el precio de las entradas. Pero antes de llegar a esa discusión conviene mirar algo más básico: cuándo y contra quién se programan los partidos.
+Cada vez que un estadio de fútbol luce desolado y con enormes sectores vacíos, la culpa suele recaer de inmediato sobre el mismo factor: los precios de las entradas. Sin embargo, antes de apuntar al bolsillo de los hinchas, vale la pena detenerse en la letra chica de la organización. ¿Cómo influyen realmente los horarios y los días elegidos en la presencia de público?
 
-![Visualización de la programación de los partidos de local de Colo-Colo, Universidad de Chile y Universidad Católica en 2025](visualizacion_estadios.png)
+![Gráfico de partidos, horarios y aforos](visualization.png)
 
-El gráfico reúne los 44 partidos que Colo-Colo, la Universidad de Chile y la Universidad Católica jugaron de local en 2025. Cada punto o barra representa un encuentro: su posición muestra la fecha y la hora de inicio, su capacidad refleja el aforo autorizado, y su distribución agrupa a los rivales y equipos locales del torneo.
+Para responder a esto, el gráfico reúne los encuentros disputados como local por Colo-Colo, la Universidad de Chile y la Universidad Católica en el campeonato de 2025. En esta visualización, cada círculo representa un partido: su ubicación en el plano indica el día y la hora de inicio, su diámetro refleja el aforo máximo permitido por la autoridad, y el color separa los duelos corrientes de los clásicos institucionales.
 
-## Los clásicos y los fines de semana mandan
+## Los privilegios del clásico
+Al revisar la distribución de los partidos estelares, la tendencia salta a la vista. Los choques entre los tres grandes se disputan exclusivamente en días sábado o domingo, apostando por franjas vespertinas cómodas. Ninguno de estos encuentros de alta convocatoria se programa de noche ni cae entre lunes y viernes, resguardando así la asistencia y la logística operativa.
 
-La gran mayoría de los duelos se concentran en los fines de semana: 29 de los 44 partidos se disputaron en sábado o domingo. Los horarios de la tarde —especialmente entre las 15:00 y las 18:00— siguen siendo la ventana preferida para albergar los encuentros de mayor convocatoria, incluyendo los cruces entre los tres grandes del fútbol chileno.
+## Horarios ingratos para el resto
+En la otra vereda se ubica el grueso del torneo. Los partidos programados en horarios nocturnos complejos o en pleno ciclo laboral semanal recaen de manera sistemática sobre los demás rivales de la categoría. Ningún clásico carga con la exigencia de un martes por la noche; esos bloques horarios quedan reservados para el resto de la cartelera.
 
-## La noche y la semana, para los demás
+## Desigualdades en la ruta de los clubes
+La programación tampoco castiga de igual forma a los tres protagonistas. Mientras algunas instituciones logran concentrar casi toda su localía en los fines de semana tradicionales, otras deben lidiar con una rotación más pesada que incluye frecuentes duelos nocturnos o en días hábiles según la disponibilidad de sus recintos.
 
-En el otro extremo, los partidos programados en horario nocturno (a las 19:00 o más tarde) o en días hábiles de lunes a viernes debieron lidiar con una menor flexibilidad logística. Equipos como Audax Italiano, Everton, Ñublense, Palestino, Coquimbo Unido, Cobresal, Huachipato y los recién sumados o animadores de regiones compartieron gran parte de esta carga horaria y semanal.
+## El peso y los límites del aforo
+Como es lógico, el tamaño de los círculos expone las diferencias estructurales entre estadios como el Nacional, el Monumental o San Carlos de Apoquindo. 
 
-## No todos cargan con lo mismo
+Si bien los clásicos lideran en cuanto a la capacidad autorizada, la norma no siempre se cumple a rajatabla. Las restricciones de seguridad y los operativos policiales provocan a menudo que partidos de enorme convocatoria terminen con aforos limitados que sorprenden por estar incluso por debajo de la media habitual.
 
-La distribución de localías muestra matices importantes según el recinto. Mientras la Universidad de Chile ejerció de local en el Estadio Nacional con aforos autorizados entre 40.000 y 45.000 espectadores, y Colo-Colo hizo lo propio en el Estadio Monumental (con aforos de 35.000 a 42.000), la Universidad Católica alternó entre el Estadio Santa Laura (12.000 espectadores) y el Estadio San Carlos de Apoquindo (20.000 espectadores), condicionando naturalmente la escala de su público potencial.
+## La pieza que falta en el tablero
+Esta visualización expone con claridad el mapa de cómo se diseña la fecha a fecha, pero todavía no revela cuántas personas cruzaron los torniquetes. El eslabón que falta es la asistencia real, un dato solicitado mediante transparencia que todavía se encuentra en camino.
 
-## El aforo y los precios en juego
-
-El tamaño del aforo autorizado marca la capacidad máxima de cada escenario, pero el tarifario también muestra contrastes: los precios más bajos registrados en las bases de datos oscilan entre los 8.000 y 18.000 pesos dependiendo del club y del rival de turno, reflejando que los partidos de mayor cartel suelen arrastrar ajustes en las boleterías.
-
-## Lo que este gráfico todavía revela a medias
-
-Esta visualización cuenta cómo se programa el fútbol, pero al mantenerse en blanco las casillas de asistencia real y público controlado en los registros oficiales, queda pendiente la pieza central de la discusión. 
-
-Cuando esos datos terminen de completarse, el mismo análisis servirá para responder lo que importa: si los partidos con rival atractivo y horario de fin de semana por la tarde atraen efectivamente a más hinchas que los de noche o de semana, y si esa variación pesa tanto como el precio de la entrada. Esa es la hipótesis del proyecto, y por ahora lo que muestran los datos es el escenario donde se disputa el torneo: una cartelera donde la programación y el rival marcan el ritmo antes de que hable la boletería.
+Una vez que esos registros estén disponibles, este mismo gráfico permitirá comprobar la gran interrogante del proyecto: si los partidos atractivos en fin de semana realmente superan en público a los de noche o de semana, y si esa brecha de asistencia pesa tanto como el valor del ticket. Por ahora, los datos dibujan con nitidez el escenario de fondo: la comodidad del calendario se la llevan los clásicos, mientras el resto del año carga con el peso de la noche y los días hábiles.
