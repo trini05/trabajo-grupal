@@ -61,11 +61,10 @@ El flujo es **vertical y lineal** (se avanza haciendo scroll), con una visualiza
 ### Hipótesis actual
 La ocupación de los estadios en los partidos de local de Colo-Colo, Universidad de Chile y Universidad Católica no está determinada por el precio de las entradas, sino por factores contextuales y de programación: el atractivo del rival (clásicos o partidos de alta convocatoria) y el día y horario del encuentro.
 
-**Qué cambió desde la entrega 03:** la visualización de programación de 2024 mostró que el rival y el horario van de la mano. Los seis clásicos de local se jugaron en fin de semana, entre las 15:00 y las 18:00, y ninguno de noche. Por eso ya no analizaremos rival y horario por separado, sino juntos. Esta hipótesis se contrastará con la asistencia real cuando estén los datos.
+**Qué cambió desde la entrega 03:** la visualización de programación de 2024 y 2025 mostraron que el rival y el horario van de la mano. Los clásicos de local se jugaron en fin de semana, entre las 15:00 y las 18:00, y ninguno de noche. Por eso ya no analizaremos rival y horario por separado, sino juntos. Esta hipótesis se contrastará con la asistencia real.
 
 ### Propuesta de trabajo grupal
 1. **Completar los datos de asistencia y precios** de 2024 y 2025, con los datos pedidos por el portal de transparencia y la información que ya se tenga verificada.
-2. **Unificar las bases de 2024 y 2025** en una estructura común, con la misma limpieza y las mismas variables.
-3. **Terminar las visualizaciones de cada etapa** de la historia, cada una con la identidad visual del libro.
-4. **Construir la página web** a partir de los wireframes y de los arquetipos de usuario.
-5. **Revisar el conjunto** (lenguaje, colores, accesibilidad y lectura en celular) antes de la entrega final.
+2. **Terminar las visualizaciones de cada etapa** de la historia, cada una con la identidad visual del libro.
+3. **Construir la página web** a partir de los wireframes y de los arquetipos de usuario.
+4. **Revisar el conjunto** (lenguaje, colores, accesibilidad y lectura en celular) antes de la entrega final.
