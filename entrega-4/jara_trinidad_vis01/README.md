@@ -6,7 +6,7 @@
 
 ## Página publicada
 
-**Enlace a GitHub Pages:** [ https://trini05.github.io/repo-pages-jara/]
+**Enlace:** [ https://trini05.github.io/repo-pages-jara/]
 
 **Repositorio de la página:** [https://github.com/trini05/repo-pages-jara]
 
