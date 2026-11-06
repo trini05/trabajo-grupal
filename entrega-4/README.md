@@ -36,12 +36,8 @@ Los gráficos de la webstory usan el mismo código: rojo para los clásicos y gr
 
 ---
 
-## 2. Wireframes
 
-**Prototipo en Miro:** [COMPLETAR]
-**PDF del board:** [COMPLETAR]
-
-### Estructura y flujo
+## 2. Estructura y flujo
 
 La estructura sigue las cuatro etapas de la historia, enmarcadas por una entrada y un cierre:
 
