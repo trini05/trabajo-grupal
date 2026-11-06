@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34457758/README.md)
 # Pieza narrativa individual - TU NOMBRE
 
 ## Enlaces
