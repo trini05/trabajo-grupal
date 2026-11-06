@@ -1,0 +1,13 @@
+[README.md](https://github.com/user-attachments/files/34457758/README.md)
+# Pieza narrativa individual - TU NOMBRE
+
+## Enlaces
+
+- [Repositorio individual](https://github.com/TU-USUARIO/NOMBRE-DE-TU-REPO)
+- [Web publicada](https://TU-USUARIO.github.io/NOMBRE-DE-TU-REPO/)
+
+## Contenido de esta carpeta
+
+- `index.html`: página con la crónica y la visualización
+- `imagenes/`: imágenes usadas en la página
+- `respaldo/`: html de la visualización, base de datos (CSV) y notebook (.ipynb)
